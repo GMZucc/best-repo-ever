@@ -1,1 +1,1 @@
-Oh hi, this is a readme file.
+This is a conflict test.
